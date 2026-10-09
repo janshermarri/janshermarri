@@ -6,6 +6,6 @@ Senior Full Stack Engineer in Karachi, Pakistan. 7+ years of Python (Django, Fas
 - Side products: MySchooli (multi-tenant school SaaS), a clinic management system with an Android app, and three personal PWAs with a tool-calling AI assistant on Azure OpenAI.
 - Learning: Microsoft AI Engineer path (Azure AI Foundry), AI-103 planned.
 
-[LinkedIn](https://www.linkedin.com/in/jansher-khan-510301121/) · janshermarri@gmail.com
+[Portfolio](https://janshermarri.github.io) · [Resume (PDF)](https://janshermarri.github.io/Jansher-Khan-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jansher-khan-510301121/) · janshermarri@gmail.com
 
 Most of my work is client code and private. Public reference projects (AWS CI/CD pipeline with Terraform and GitHub Actions, a RAG assistant on Azure) are in progress and will be pinned here.
